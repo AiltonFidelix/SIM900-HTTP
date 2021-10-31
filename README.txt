@@ -1,1 +1,0 @@
-Simple SIM900 HTTP POST and GET by serial port. Used for test SIM900 module.
